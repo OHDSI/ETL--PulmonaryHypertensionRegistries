@@ -4,7 +4,7 @@ Welcome to the Handbook!
 
 We believe that sharing methodologies and experiences could help avoid duplication of effort, shape future guidelines, and foster collaborations. So firstly, we published a paper summarizing our experience of mapping three PH registry data sets to the OMOP CDM v5.3.1 [[1]](#1). Here in the next step, we share practical approaches and techniques laying down a solid foundation for researchers wishing to convert PH registry data to the OMOP CDM.
 
-The guidelines themselves are in a [wiki](https://github.com/OHDSI/ETL--PulmonaryHypertensionRegistries/wiki), whereas code and custom vocab examples can be found in the current repository.
+The guidelines themselves are in a [wiki](https://github.com/OHDSI/ETL--PulmonaryHypertensionRegistries/wiki), whereas code and [custom vocab examples](https://github.com/OHDSI/ETL--PulmonaryHypertensionRegistries/wiki/Terminology-Mapping) can be found in the current repository.
 
 ## References
 <a id="1">[1]</a>
